@@ -73,12 +73,12 @@
               <div class="work--lockup">
                 <ul class="slider">
                   <li class="slider--item slider--item-left">
-                    <a href="#0">
+                    <a href="https://longbeegit.github.io/shoes/index.html">
                       <div class="slider--item-image">
-                        <img src="assets/img/work-victory.jpg" alt="Victory">
+                        <img src="assets/img/jd.jpg" alt="My Passion">
                       </div>
-                      <p class="slider--item-title">Victory</p>
-                      <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                      <p class="slider--item-title">My Passion</p>
+                      <p class="slider--item-description">Just like a slide show some art</p>
                     </a>
                   </li>
                   <li class="slider--item slider--item-center">
@@ -91,12 +91,12 @@
                     </a>
                   </li>
                   <li class="slider--item slider--item-right">
-                    <a href="#0">
+                    <a href="https://longbeegit.github.io/load/index.html">
                       <div class="slider--item-image">
-                        <img src="assets/img/work-alex-nowak.jpg" alt="Alex Nowak">
+                        <img src="assets/img/loader.gif" alt="Loader">
                       </div>
-                      <p class="slider--item-title">Alex Nowak</p>
-                      <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                      <p class="slider--item-title">Something is coming</p>
+                      <p class="slider--item-description">But if you click on here it still works</p>
                     </a>
                   </li>
                 </ul>
@@ -123,7 +123,7 @@
           <li class="l-section section">
             <div class="about">
               <div class="about--banner">
-                <h2>We<br>believe in<br>passionate<br>people</h2>
+                <h2>Death is like<br> the wind<br><br> Always<br> By My Side.</h2>
                 <a href="#0">Career
                   <span>
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style="enable-background:new 0 0 150 118;" xml:space="preserve">
@@ -133,17 +133,17 @@
                     </svg>
                   </span>
                 </a>
-                <img src="assets/img/about-visual.png" alt="About Us">
+                <img src="assets/img/ys-art.png" width=392px alt="About Us">
               </div>
               <div class="about--options">
                 <a href="#0">
-                  <h3>Winners</h3>
+                  <h3>HTML</h3>
                 </a>
                 <a href="#0">
-                  <h3>Philosophy</h3>
+                  <h3>CSS</h3>
                 </a>
                 <a href="#0">
-                  <h3>History</h3>
+                  <h3>JS</h3>
                 </a>
               </div>
             </div>
@@ -151,16 +151,15 @@
           <li class="l-section section">
             <div class="contact">
               <div class="contact--lockup">
-                <div class="modal">
+                <div class="modal" style="margin-left: 2000px;">
                   <div class="modal--information">
-                    <p>Pawia 5, 31-154 Kraków, Poland</p>
-                    <a href="mailto:ouremail@gmail.com">ouremail@gmail.com</a>
-                    <a href="tel:+148126287560">+48 12 628 75 60</a>
+                    <p>Vietnam</p>
+                    <a href="mailto:ouremail@gmail.com">zlongzvip@gmail.com</a>
                   </div>
                   <ul class="modal--options">
-                    <li><a href="#0">Bēhance</a></li>
-                    <li><a href="#0">dribbble</a></li>
-                    <li><a href="mailto:ouremail@gmail.com">Contact Us</a></li>
+                    <li><a href="https://www.facebook.com/LongBee.ne">Facebook</a></li>
+                    <li><a href="https://www.instagram.com/hoang.longz/">Instagram</a></li>
+                    <li><a href="mailto:zlongzvip@gmail.com">Contact Us</a></li>
                   </ul>
                 </div>
               </div>
