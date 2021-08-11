@@ -320,7 +320,7 @@
  padding:0; 
  list-style:none}.intro--options>a{max-width:250px; 
  text-decoration:none; 
- color:#282828; 
+ color:#a09f9f; 
  -webkit-transition:color .2s ease-in-out; 
  transition:color .2s ease-in-out}.intro--options>a:hover{color:#fff}.intro--options h3{font-size:16px; 
  text-transform:uppercase}.intro--options p{margin-bottom:0}@media (max-width: 900px){.intro--banner{height:380px}.intro--banner h1{font-size:55px}.intro--banner img{width:430px}.intro--options>a{margin-right:30px}.intro--options>a:last-child{margin-right:0}}@media (max-width: 767px){.intro--banner{height:305px}.intro--banner h1{font-size:44px}.intro--banner img{width:330px}.intro--options{display:block}.intro--options>a{display:block; 
