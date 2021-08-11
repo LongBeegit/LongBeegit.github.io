@@ -82,12 +82,12 @@
                     </a>
                   </li>
                   <li class="slider--item slider--item-center">
-                    <a href="#0">
+                    <a href="https://longbeegit.github.io/another%20one/another%20page.html">
                       <div class="slider--item-image">
-                        <img src="assets/img/work-metiew-smith.jpg" alt="Metiew and Smith">
+                        <img src="assets/img/sai1.jpg" alt="Metiew and Smith">
                       </div>
-                      <p class="slider--item-title">Metiew &amp; Smith</p>
-                      <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                      <p class="slider--item-title">Manga Page</p>
+                      <p class="slider--item-description">My first page like a manga page, but it's just demo.</p>
                     </a>
                   </li>
                   <li class="slider--item slider--item-right">
